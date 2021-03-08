@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://git@github.com/haskell-course-lierdakil/dlist-template
+	branch = master
+	commit = 353d5e93e802f3b59b58c2941604f19855b6835b
+	parent = 69fd2f02665094197638de6b615eba865adc80fb
+	method = merge
+	cmdver = 0.4.1
