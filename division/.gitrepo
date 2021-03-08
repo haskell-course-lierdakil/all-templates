@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://git@github.com/haskell-course-lierdakil/division-template
+	branch = master
+	commit = 9d0cf5ed2a6d22f30eaf955cbbaf9725fe07428b
+	parent = 03d9a47225c9fd831f7a189905e8f5e1ad789384
+	method = merge
+	cmdver = 0.4.1
