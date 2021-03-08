@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://git@github.com/haskell-course-lierdakil/instances-template
+	branch = master
+	commit = b306eed54cda862fabd2ee2a3021b6734406f505
+	parent = 2101520ca5e7afb56c8d17e402e073701d00732f
+	method = merge
+	cmdver = 0.4.1
