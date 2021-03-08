@@ -1,0 +1,8 @@
+resolver: lts-17.5
+packages:
+- fibonacci
+- division
+- vigenere
+- instances
+- dlist
+- queue
