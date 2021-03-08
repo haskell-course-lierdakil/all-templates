@@ -1,4 +1,4 @@
-## all-templates
+# all-templates
 
 Все шаблоны в одном месте.
 
