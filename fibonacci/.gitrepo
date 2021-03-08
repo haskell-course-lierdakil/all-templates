@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://git@github.com/haskell-course-lierdakil/fibonacci-template
+	branch = master
+	commit = 5679d3d8a24a368735a5906d6dded97926ab6cab
+	parent = f9287550cab5758e4fbb6689bd53173772ca01ae
+	method = merge
+	cmdver = 0.4.1
