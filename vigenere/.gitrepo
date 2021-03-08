@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = ssh://git@github.com/haskell-course-lierdakil/vigenere-template
+	branch = master
+	commit = 19e8654ae6f1d2f26e512a1610209ee6f7d9b13c
+	parent = b2edd36981a9a24d742dd7393c35f1b521b69e99
+	method = merge
+	cmdver = 0.4.1
