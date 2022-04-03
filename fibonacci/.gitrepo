@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://git@github.com/haskell-course-lierdakil/fibonacci-template
 	branch = master
-	commit = 10f097925b739c5d28d2f1e5191b1d3b9cd30979
-	parent = f3bfee640c54c2ff568637dec5eb45e21df348ea
+	commit = b30ecaa0cf8bd1ebe1ba05f17105f5884643ebbd
+	parent = 3f624feae049d5af71bd28d1f769ce02b41e8a9f
 	method = merge
 	cmdver = 0.4.1
