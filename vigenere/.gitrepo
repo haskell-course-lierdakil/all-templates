@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://git@github.com/haskell-course-lierdakil/vigenere-template
 	branch = master
-	commit = ae6d355b46e5068f01561cd7ea6560303b52c908
-	parent = 569129e881dc479386ce589bbdb3cf945b5cb37a
+	commit = 5aedd33a2c70847146f0a2a75938cdf11de37a71
+	parent = df3fe407cb431f76543aeab02aa5fa540ac0a49c
 	method = merge
 	cmdver = 0.4.1
