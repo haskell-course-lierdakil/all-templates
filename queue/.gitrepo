@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://git@github.com/haskell-course-lierdakil/queue-template
 	branch = master
-	commit = 99d3ed97777c4aae494549ffc499009a987815a3
-	parent = 54736d51a4ef29ae9f488885b1a6b8ae6504a694
+	commit = 39da23274c2ce531635844ea400653452306d4ee
+	parent = 497aa250e33467a841045608350c6b4ed4c5527e
 	method = merge
 	cmdver = 0.4.1
