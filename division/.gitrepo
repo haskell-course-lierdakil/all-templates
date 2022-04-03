@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://git@github.com/haskell-course-lierdakil/division-template
 	branch = master
-	commit = 347714730e5a4301277d4ac0a93110ac3c5800a9
-	parent = 4607c3003534a16e919792e25ddc3bf80d7e897b
+	commit = ddb918807d81ecb35e2fa9751b2f91bd5ae126ae
+	parent = 9a6e5d697e736fb64ed9d5d602095e43e617d709
 	method = merge
 	cmdver = 0.4.1
