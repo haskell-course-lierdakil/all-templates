@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://git@github.com/haskell-course-lierdakil/dlist-template
 	branch = master
-	commit = 3d3a191ff2349297fd0de9c110d6277eab39cd7e
-	parent = 839b411d1396f192fab10ed3217c18c13c54b248
+	commit = 6c0b226c58eac4cdafac15cad8198b786f53cc67
+	parent = daa151d24eb3e0c3f350a0daf25b8e437e3291f3
 	method = merge
 	cmdver = 0.4.1
