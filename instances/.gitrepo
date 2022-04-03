@@ -6,7 +6,7 @@
 [subrepo]
 	remote = ssh://git@github.com/haskell-course-lierdakil/instances-template
 	branch = master
-	commit = 735ada6015269da0064fdea03eeaa74903f8b974
-	parent = e1ce86df526740e14a70758bdb4f8c43da507539
+	commit = 515e51c596341fd9612187ab2e7454278f6d38fe
+	parent = 8f9a58a43a5c1a490780e78533d69366d888629a
 	method = merge
 	cmdver = 0.4.1
